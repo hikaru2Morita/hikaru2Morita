@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hikaru Morita.
 - 👀 I’m interested in Tenisu.
-- 🌱 I’m currently learning Java　programming.
-- 💞️ I’m looking to collaborate on 　Al.
+- 🌱 I’m currently learning Java programming.
+- 💞️ I’m looking to collaborate on  Al.
 - 📫 How to reach me e-mail.
 - 😄 Pronouns: ...Hikaru.
 - ⚡ Fun fact: I like sushi.
